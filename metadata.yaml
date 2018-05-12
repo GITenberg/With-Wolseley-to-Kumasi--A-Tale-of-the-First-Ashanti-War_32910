@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '34828'
     url: http://www.gutenberg.org/2009/agents/34828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32910#With-Wolseley-to-Kumasi--A-Tale-of-the-First-Ashanti-War
 gutenberg_issued: '2010-06-20'
 gutenberg_type: Text
 identifiers:
