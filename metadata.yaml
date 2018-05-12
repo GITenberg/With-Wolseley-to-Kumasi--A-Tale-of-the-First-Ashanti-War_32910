@@ -1,0 +1,35 @@
+_repo: With-Wolseley-to-Kumasi--A-Tale-of-the-First-Ashanti-War_32910
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Browne, Gordon
+    alias: Browne, Gordon Frederick
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '8569'
+    url: http://www.gutenberg.org/2009/agents/8569
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brereton, F. S. (Frederick Sadleir)
+    alias: Brereton, Frederick Sadleir
+    birthdate: 1872
+    gutenberg_agent_id: '34828'
+    url: http://www.gutenberg.org/2009/agents/34828
+description: ''
+gutenberg_issued: '2010-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Ashanti war, 1873-1874 -- Juvenile fiction'
+- !lcsh 'Africa -- Juvenile fiction'
+title: 'With Wolseley to Kumasi: A Tale of the First Ashanti War'
+url: http://www.gutenberg.org/ebooks/32910
